@@ -1,0 +1,3 @@
+what is java programming?
+Java is a programming language that's used to create applications for mobile devices, 
+the internet, and more. It's a popular choice for developers because it's fast, secure, and reliable. 
